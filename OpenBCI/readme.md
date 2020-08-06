@@ -18,6 +18,11 @@ The adapter can be printed using a desktop 3D-printer.
 </figure>
 
 <figure>
+  <img src="board_mount v6.png" width="300"/>
+  <figcaption>Illustration of the mount for the OpenBCI Cyton board</figcaption>
+</figure>
+
+<figure>
   <img src="_MG_3046.JPG" width="300"/>
   <figcaption>Dry electrode mounted on the Easycap, outside view</figcaption>
 </figure>
