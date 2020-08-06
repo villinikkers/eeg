@@ -6,4 +6,4 @@ electrodes from OpenBCI with a standard fNIRS/EEG cap. The project and intended 
 
 The adapter can be printed using a desktop 3D-printer.
 
-![3D illustration of the adapter](C:\Users\chris\Dropbox\Tetris\01 Articles\NordDesign paper\Bilder\assembly.png)
+![3D illustration of the adapter](C:/Users/chris/Dropbox/Tetris/01 Articles/NordDesign paper/Bilder/assembly.png)
