@@ -8,3 +8,4 @@ The adapter can be printed using a desktop 3D-printer.
 
 ---
 <img src="assembly.png" alt="3D illustration of the adapter" width="300"/>
+<img src="assembly2.png" width="300"/>
