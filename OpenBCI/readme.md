@@ -6,6 +6,16 @@ electrodes from OpenBCI with a standard fNIRS/EEG cap. The project and intended 
 
 The adapter can be printed using a desktop 3D-printer.
 
+## Suggested printing parameters
+* Material: PLA
+* Nozzle diameter: 0.4 mm
+* Extruder temperature: 210 &#176;C (first layer: 215 &#176;C)
+* Bed temperature: 60 &#176;C
+* Layer height: 0.15 mm
+* Perimeter vertical shells: 2
+* Solid layers top: 7
+* Solid layers bottom: 5
+
 ---
 <figure>
   <img src="assembly.png" alt="3D illustration of the adapter" width="300"/>
