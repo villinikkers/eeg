@@ -18,11 +18,11 @@ The adapter can be printed using a desktop 3D-printer.
 </figure>
 
 <figure>
-  <img src="_MG_3046.JPG.png" width="300"/>
-  <figcaption></figcaption>
+  <img src="_MG_3046.JPG" width="300"/>
+  <figcaption>Dry electrode mounted on the Easycap, outside view</figcaption>
 </figure>
 
 <figure>
   <img src="_MG_3047.JPG" width="300"/>
-  <figcaption></figcaption>
+  <figcaption>Dry electrode mounted on the Easycap, inside view</figcaption>
 </figure>
